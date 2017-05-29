@@ -1,0 +1,11 @@
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\bin\Debug\iPhone Picture Copier.exe.config
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\bin\Debug\iPhone Picture Copier.exe
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\bin\Debug\iPhone Picture Copier.pdb
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\bin\Debug\iPhone Picture Copier.xml
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\obj\Debug\iPhone Picture Copier.vbprojResolveAssemblyReference.cache
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\obj\Debug\iPhone_Picture_Copier.Form1.resources
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\obj\Debug\iPhone_Picture_Copier.Resources.resources
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\obj\Debug\iPhone Picture Copier.vbproj.GenerateResource.Cache
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\obj\Debug\iPhone Picture Copier.exe
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\obj\Debug\iPhone Picture Copier.xml
+c:\users\obeid farms\documents\visual studio 2015\Projects\iPhone Picture Copier\iPhone Picture Copier\obj\Debug\iPhone Picture Copier.pdb
